@@ -1,0 +1,67 @@
+{
+  "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in onceuponamiu/Nguyen_Le-thuy-tien project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 800,
+    "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/canvas/",
+    "label" : {
+      "none" : [ "image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 17
+            }, {
+              "width" : 50,
+              "height" : 34
+            }, {
+              "width" : 100,
+              "height" : 67
+            }, {
+              "width" : 200,
+              "height" : 133
+            }, {
+              "width" : 400,
+              "height" : 266
+            }, {
+              "width" : 800,
+              "height" : 531
+            } ],
+            "profile" : "level0",
+            "width" : 800,
+            "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 531
+          } ],
+          "format" : "image/jpeg",
+          "width" : 800,
+          "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 531
+        },
+        "target" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/canvas/"
+      } ]
+    } ],
+    "height" : 531
+  } ]
+}
