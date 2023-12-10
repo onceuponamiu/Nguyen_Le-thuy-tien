@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2048,
+    "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung/canvas/",
+    "label" : {
+      "none" : [ "concept-chup-anh-tet-goi-banh-chung" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 64,
+              "height" : 43
+            }, {
+              "width" : 128,
+              "height" : 86
+            }, {
+              "width" : 256,
+              "height" : 171
+            }, {
+              "width" : 512,
+              "height" : 342
+            }, {
+              "width" : 1024,
+              "height" : 683
+            }, {
+              "width" : 2048,
+              "height" : 1366
+            } ],
+            "profile" : "level0",
+            "width" : 2048,
+            "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1366
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2048,
+          "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1366
+        },
+        "target" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung/canvas/"
+      } ]
+    } ],
+    "height" : 1366
+  }, {
     "width" : 750,
     "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/canvas/",
     "label" : {
