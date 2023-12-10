@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 750,
+    "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/canvas/",
+    "label" : {
+      "none" : [ "mui-ne-phan-thiet" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 24,
+              "height" : 14
+            }, {
+              "width" : 47,
+              "height" : 28
+            }, {
+              "width" : 94,
+              "height" : 56
+            }, {
+              "width" : 188,
+              "height" : 111
+            }, {
+              "width" : 375,
+              "height" : 222
+            }, {
+              "width" : 750,
+              "height" : 443
+            } ],
+            "profile" : "level0",
+            "width" : 750,
+            "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 443
+          } ],
+          "format" : "image/jpeg",
+          "width" : 750,
+          "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 443
+        },
+        "target" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/mui-ne-phan-thiet/canvas/"
+      } ]
+    } ],
+    "height" : 443
+  }, {
     "width" : 800,
     "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/image-me-man-voi-nhung-thua-ruong-bac-thang-o-tay-bac-164624953493216/canvas/",
     "label" : {
