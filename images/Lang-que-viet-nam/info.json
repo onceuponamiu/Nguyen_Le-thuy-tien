@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 20
+  }, {
+    "width" : 64,
+    "height" : 39
+  }, {
+    "width" : 128,
+    "height" : 78
+  }, {
+    "width" : 256,
+    "height" : 156
+  }, {
+    "width" : 512,
+    "height" : 312
+  }, {
+    "width" : 1024,
+    "height" : 624
+  } ],
+  "profile" : "level0",
+  "width" : 1024,
+  "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/Lang-que-viet-nam",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 624
+}
