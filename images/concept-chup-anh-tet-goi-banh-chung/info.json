@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 64,
+    "height" : 43
+  }, {
+    "width" : 128,
+    "height" : 86
+  }, {
+    "width" : 256,
+    "height" : 171
+  }, {
+    "width" : 512,
+    "height" : 342
+  }, {
+    "width" : 1024,
+    "height" : 683
+  }, {
+    "width" : 2048,
+    "height" : 1366
+  } ],
+  "profile" : "level0",
+  "width" : 2048,
+  "id" : "https://onceuponamiu.github.io/Nguyen_Le-thuy-tien/images/concept-chup-anh-tet-goi-banh-chung",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1366
+}
